@@ -74,6 +74,18 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 25,
         "participants": ["harper@mergington.edu", "logan@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Build and program robots for fun competitions",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": ["nora@mergington.edu"]
+    },
+    "Music Club": {
+        "description": "Practice instruments, sing, and perform together",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["henry@mergington.edu"]
     }
 }
 
